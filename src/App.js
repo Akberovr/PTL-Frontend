@@ -1,5 +1,4 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
 import ListEmployeeComponent from "./component/ListEmployeeComponent";
@@ -8,7 +7,7 @@ import "bootstrap/dist/css/bootstrap.min.css";
 
 
 function App() {
-  return (
+  return (  
     <div>
       <header>
 
