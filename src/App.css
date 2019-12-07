@@ -17,6 +17,20 @@
   color: white;
 }
 
+
 .App-link {
   color: #09d3ac;
 }
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.container, .container-fluid {
+  margin-top: 20px;
+}  
